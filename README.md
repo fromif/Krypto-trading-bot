@@ -387,39 +387,4 @@ To report errors open a [new issue](https://github.com/fromif/Krypto-trading-bot
 Pull Requests are welcome, but adhere to the Contributor License Agreement:
 - Your biological and technological distinctiveness will be added to our own. Resistance is futile.
 
-### like yesterday, since 0day and ∞
 
-![bcn](https://user-images.githubusercontent.com/1634027/29495722-1d924018-85c5-11e7-8d61-d83f5716ae9e.jpg)
-
-#### every new day we sing:
-
-<p>If love is so nice, tell me why are you so sad?<br>If love is so nice, tell me, oh tell me why are you hurt so bad?<br>One Love! get ready!</p>
-<p>Now feel this drumbeat as it beats within,<br>playin' a riddim, resisting against the system:</p>
-
- - https://www.youtube.com/watch?v=g--fsK6aLf8
- - https://www.youtube.com/watch?v=BncXzyjdREc
- - https://www.youtube.com/watch?v=uEqxj58g6To
- - https://www.youtube.com/watch?v=SS9DJX8gTKk
- - https://www.youtube.com/watch?v=e8ULyjcSukM
- - https://www.youtube.com/watch?v=Rom4qWtEkMA
- - https://www.youtube.com/watch?v=wXHm9Yl5tRM
- - https://www.youtube.com/watch?v=xPg_e_3cK-E
- - https://www.youtube.com/watch?v=KKpcQIfIAi8
- - https://www.youtube.com/watch?v=pZAmer0EmMQ
- - https://www.youtube.com/watch?v=50aXt1ctmUU
- - https://www.youtube.com/watch?v=vofff0Ei3kk
- - https://www.youtube.com/watch?v=4Ois3zB7SJ4
- - https://www.youtube.com/watch?v=_wGDcWD1E1A
- - https://www.youtube.com/watch?v=DVg2EJvvlF8
- - https://www.youtube.com/watch?v=1iZdJNH3Z1o
- - https://www.youtube.com/watch?v=Zi2MmIGZooQ
- - add your song here (please open a [new issue](https://github.com/fromif/Krypto-trading-bot/issues/new?title=Today,%20I%20sing) to share your link)
-<p align="center"><img src="https://user-images.githubusercontent.com/1634027/32134633-642bb47a-bbf1-11e7-809c-f2d4d57678e0.jpg" />
-<br /><br />
-We have already enough policemen,<br />if you like adventures choose to be a <a href="https://www.youtube.com/watch?v=pT_GM35fM7I">brave firefighter</a>.
-<br /><br /><br /><br /><br />
-<img src="https://user-images.githubusercontent.com/1634027/32695988-22681724-c76b-11e7-8557-7f2b15b2686b.jpg" />
-<br /><br /><br /><br />Violence <a href="https://www.cnvc.org/learn-nvc/what-is-nvc">should not</a> be the answer to those who<br />are <a href="https://novact.org/about-us/activities/?lang=en">asking for</a> freedom.<br /><br /><br /><br /><br />
-<img src="https://user-images.githubusercontent.com/1634027/29746351-7478d556-8ad7-11e7-8b27-445eefa8f960.jpg" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<img width="300" src="http://hits.dwyl.io/fromif/Krypto-trading-bot.svg" /> + 99999</p>
