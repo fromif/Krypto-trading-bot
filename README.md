@@ -1,20 +1,18 @@
-[![Release](https://img.shields.io/github/release/ctubio/Krypto-trading-bot.svg)](https://github.com/ctubio/Krypto-trading-bot/releases)
+[![Release](https://img.shields.io/github/release/fromif/Krypto-trading-bot.svg)](https://github.com/fromif/Krypto-trading-bot/releases)
 [![Platform](https://img.shields.io/badge/platform-unix--like-111111.svg)](https://www.gnu.org/)
 [![g0t0 Counter](https://tinyurl.com/g0t0search)](https://tinyurl.com/g0t0docs)
-[![Code Size](https://img.shields.io/github/languages/code-size/ctubio/Krypto-trading-bot.svg)](https://github.com/ctubio/Krypto-trading-bot)
-[![Software License](https://img.shields.io/badge/license-ISC-551a8b.svg)](https://raw.githubusercontent.com/ctubio/Krypto-trading-bot/master/LICENSE)
-[![Software License](https://img.shields.io/badge/license-MIT-551a8b.svg)](https://raw.githubusercontent.com/ctubio/Krypto-trading-bot/master/COPYING)
+[![Code Size](https://img.shields.io/github/languages/code-size/fromif/Krypto-trading-bot.svg)](https://github.com/fromif/Krypto-trading-bot)
+[![Software License](https://img.shields.io/badge/license-ISC-551a8b.svg)](https://raw.githubusercontent.com/fromif/Krypto-trading-bot/master/LICENSE)
+[![Software License](https://img.shields.io/badge/license-MIT-551a8b.svg)](https://raw.githubusercontent.com/fromif/Krypto-trading-bot/master/COPYING)
 
-[`K`](https://github.com/ctubio/Krypto-trading-bot) is a very low latency [market making](https://github.com/ctubio/Krypto-trading-bot/blob/master/doc/MANUAL.md#what-is-market-making) trading bot with a fully featured [web interface](https://github.com/ctubio/Krypto-trading-bot#web-ui). The bot can place and cancel orders on one of [several supported cryptocoin exchanges](https://github.com/ctubio/Krypto-trading-bot#compatible-exchanges) in less than a few miliseconds per order on a decent machine.
+[`K`](https://github.com/fromif/Krypto-trading-bot) is a very low latency [market making](https://github.com/fromif/Krypto-trading-bot/blob/master/doc/MANUAL.md#what-is-market-making) trading bot with a fully featured [web interface](https://github.com/fromif/Krypto-trading-bot#web-ui). The bot can place and cancel orders on one of [several supported cryptocoin exchanges](https://github.com/fromif/Krypto-trading-bot#compatible-exchanges) in less than a few miliseconds per order on a decent machine.
 
-### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4be.png" height="64" width="64"  align="middle" /> Latest version at https://github.com/ctubio/Krypto-trading-bot <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51e.png" height="64" width="64" align="middle" /> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b8.png" height="64" width="64" align="middle" />
-
-[![Build Status](https://img.shields.io/travis/ctubio/Krypto-trading-bot/master.svg?label=test)](https://travis-ci.org/ctubio/Krypto-trading-bot)
-[![Coverage Status](https://img.shields.io/coveralls/ctubio/Krypto-trading-bot/master.svg)](https://coveralls.io/r/ctubio/Krypto-trading-bot?branch=master)
-[![Quality Status](https://img.shields.io/badge/review-clang--tidy%20+%20pvs-4cc61e.svg)](https://www.codacy.com/app/ctubio/Krypto-trading-bot)
-[![Open Issues](https://img.shields.io/github/issues/ctubio/Krypto-trading-bot.svg)](https://github.com/ctubio/Krypto-trading-bot/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/ctubio/Krypto-trading-bot.svg)](https://github.com/ctubio/Krypto-trading-bot)
-[![Downloads Last 21 Commits](https://img.shields.io/github/downloads/ctubio/Krypto-trading-bot/total.svg?label=downloads%20last%2021%20commits)](https://github.com/ctubio/Krypto-trading-bot)
+[![Build Status](https://img.shields.io/travis/fromif/Krypto-trading-bot/master.svg?label=test)](https://travis-ci.org/fromif/Krypto-trading-bot)
+[![Coverage Status](https://img.shields.io/coveralls/fromif/Krypto-trading-bot/master.svg)](https://coveralls.io/r/fromif/Krypto-trading-bot?branch=master)
+[![Quality Status](https://img.shields.io/badge/review-clang--tidy%20+%20pvs-4cc61e.svg)](https://www.codacy.com/app/fromif/Krypto-trading-bot)
+[![Open Issues](https://img.shields.io/github/issues/fromif/Krypto-trading-bot.svg)](https://github.com/fromif/Krypto-trading-bot/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/fromif/Krypto-trading-bot.svg)](https://github.com/fromif/Krypto-trading-bot)
+[![Downloads Last 21 Commits](https://img.shields.io/github/downloads/fromif/Krypto-trading-bot/total.svg?label=downloads%20last%2021%20commits)](https://github.com/fromif/Krypto-trading-bot)
 
 Runs on unix-like systems. Persistence is achieved through a built-in server-less SQLite C++ interface. Installation via Docker is supported, but manual installation in a dedicated [Debian](https://cdimage.debian.org/cdimage/weekly-builds/amd64/iso-cd/)/[Raspbian](https://www.raspberrypi.org/downloads/raspbian/), [Red Hat](https://developers.redhat.com/products/rhel/download), [CentOS](https://wiki.centos.org/Download) or macOS instance is recommended.
 
@@ -34,7 +32,7 @@ All currency pairs are supported.
 ## README
 - Documentation
   - [README](#readme)
-  - [MANUAL](https://github.com/ctubio/Krypto-trading-bot/blob/master/doc/MANUAL.md)
+  - [MANUAL](https://github.com/fromif/Krypto-trading-bot/blob/master/doc/MANUAL.md)
 - Installation
   - [Docker Installation](#docker-installation)
   - [Manual GIT Installation](#manual-git-installation)
@@ -63,7 +61,7 @@ All currency pairs are supported.
 
 ### Docker Installation
 
-See [etc/Dockerfile](https://github.com/ctubio/Krypto-trading-bot/tree/master/etc#dockerfile) section if you use winy (because the Manual Installation only works on unix-like platforms).
+See [etc/Dockerfile](https://github.com/fromif/Krypto-trading-bot/tree/master/etc#dockerfile) section if you use winy (because the Manual Installation only works on unix-like platforms).
 
 ### Manual GIT Installation
 
@@ -73,7 +71,7 @@ See [etc/Dockerfile](https://github.com/ctubio/Krypto-trading-bot/tree/master/et
 
 2. Download it wherever you want (feel free to customize the suggested folder name K) and execute the installer:
 ```
- $ git clone ssh://git@github.com/ctubio/Krypto-trading-bot K
+ $ git clone ssh://git@github.com/fromif/Krypto-trading-bot K
  $ cd K
  $ make install
 ```
@@ -95,7 +93,7 @@ To upgrade anytime see [Upgrade to the latest commit](#upgrade-to-the-latest-com
 ```
  $ mkdir K
  $ cd K
- $ curl https://raw.githubusercontent.com/ctubio/Krypto-trading-bot/master/Makefile > Makefile
+ $ curl https://raw.githubusercontent.com/fromif/Krypto-trading-bot/master/Makefile > Makefile
  $ make install
 ```
 
@@ -117,7 +115,7 @@ Once the config file is ready, you can start the bot:
 
 Alternatively use `make start` to run `K.sh` in the background using [screen](https://www.decf.berkeley.edu/help/unix/screen.html) (to see the output, attach the screen with `make screen` [or run all at once with `make start screen`]).
 
-Feel free to run `make stop` or `make restart` anytime, and don't forget to [read the fucking manual](https://github.com/ctubio/Krypto-trading-bot/blob/master/doc/MANUAL.md).
+Feel free to run `make stop` or `make restart` anytime, and don't forget to [read the fucking manual](https://github.com/fromif/Krypto-trading-bot/blob/master/doc/MANUAL.md).
 
 Troubleshooting:
 
@@ -127,11 +125,11 @@ Troubleshooting:
 
  * See `./K.sh --help` and `make help`.
 
- * Use your own SSL certificate with `--ssl-crt` and `--ssl-key`, see [web ui](https://github.com/ctubio/Krypto-trading-bot#web-ui) section. Otherwise, the unsecure built-in certificate is a fully featured default openssl, that you may just need to authorise in your browser.
+ * Use your own SSL certificate with `--ssl-crt` and `--ssl-key`, see [web ui](https://github.com/fromif/Krypto-trading-bot#web-ui) section. Otherwise, the unsecure built-in certificate is a fully featured default openssl, that you may just need to authorise in your browser.
 
 ### Configuration
 
-See [etc/K.sh.dist](https://github.com/ctubio/Krypto-trading-bot/blob/master/etc/K.sh.dist) file or your own `./K.sh` file.
+See [etc/K.sh.dist](https://github.com/fromif/Krypto-trading-bot/blob/master/etc/K.sh.dist) file or your own `./K.sh` file.
 
 It just contains a few variables with examples ready to be reused. The very end of the file contains the code that starts the bot.
 
@@ -173,7 +171,7 @@ After multiple config files are setup, to control them all together instead of o
 
 1. Open your web browser to connect to HTTPS port `3000` (or your configured port number) of the machine running K. If you're running K locally on Mac/Windows on Docker, replace "localhost" with the address returned by `boot2docker ip`.
 
-2. Read up on how to use K and market making in the [manual](https://github.com/ctubio/Krypto-trading-bot/blob/master/doc/MANUAL.md).
+2. Read up on how to use K and market making in the [manual](https://github.com/fromif/Krypto-trading-bot/blob/master/doc/MANUAL.md).
 
 3. Use the web UI to change the quoting parameters. Click the "BTC/USD" button to start making markets. Click it again to stop. When the button is green, the bot is actively placing orders.
 
@@ -345,7 +343,7 @@ While locked, the orderbook will be not in realtime, instead market price levels
 
 Anonymous users can also unlock any API Key by paying 0.01210000 BTC to the address displayed. Once unlocked you may use different currency pairs or reinstall on a different machine with the same unlocked API Key. However, if you want to use more than one exchange, you will need to pay again to unlock the API Key for each exchange.
 
-Otherwise if you choose to not support further development by ctubio, just keep running some old commit and do not upgrade (any commit prior to v0.3.0 was completely unlocked).
+Otherwise if you choose to not support further development by fromif, just keep running some old commit and do not upgrade (any commit prior to v0.3.0 was completely unlocked).
 
 Please don't open issues asking how much % less the bot generates with `--free-version`; it is relative to your trading strategy, the market conditions, and the bot's performance.
 
@@ -382,9 +380,9 @@ If you need installation or usage support contact me at [earn.com/analpaper](htt
 
 ### Issues
 
-To request new features open a [new issue](https://github.com/ctubio/Krypto-trading-bot/issues/new?title=Feature%20request) and explain your improvement as you consider.
+To request new features open a [new issue](https://github.com/fromif/Krypto-trading-bot/issues/new?title=Feature%20request) and explain your improvement as you consider.
 
-To report errors open a [new issue](https://github.com/ctubio/Krypto-trading-bot/issues/new?title=Error%20report) only after collecting all possible relevant log messages.
+To report errors open a [new issue](https://github.com/fromif/Krypto-trading-bot/issues/new?title=Error%20report) only after collecting all possible relevant log messages.
 
 Pull Requests are welcome, but adhere to the Contributor License Agreement:
 - Your biological and technological distinctiveness will be added to our own. Resistance is futile.
@@ -415,7 +413,7 @@ Pull Requests are welcome, but adhere to the Contributor License Agreement:
  - https://www.youtube.com/watch?v=DVg2EJvvlF8
  - https://www.youtube.com/watch?v=1iZdJNH3Z1o
  - https://www.youtube.com/watch?v=Zi2MmIGZooQ
- - add your song here (please open a [new issue](https://github.com/ctubio/Krypto-trading-bot/issues/new?title=Today,%20I%20sing) to share your link)
+ - add your song here (please open a [new issue](https://github.com/fromif/Krypto-trading-bot/issues/new?title=Today,%20I%20sing) to share your link)
 <p align="center"><img src="https://user-images.githubusercontent.com/1634027/32134633-642bb47a-bbf1-11e7-809c-f2d4d57678e0.jpg" />
 <br /><br />
 We have already enough policemen,<br />if you like adventures choose to be a <a href="https://www.youtube.com/watch?v=pT_GM35fM7I">brave firefighter</a>.
@@ -424,4 +422,4 @@ We have already enough policemen,<br />if you like adventures choose to be a <a 
 <br /><br /><br /><br />Violence <a href="https://www.cnvc.org/learn-nvc/what-is-nvc">should not</a> be the answer to those who<br />are <a href="https://novact.org/about-us/activities/?lang=en">asking for</a> freedom.<br /><br /><br /><br /><br />
 <img src="https://user-images.githubusercontent.com/1634027/29746351-7478d556-8ad7-11e7-8b27-445eefa8f960.jpg" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
-<img width="300" src="http://hits.dwyl.io/ctubio/Krypto-trading-bot.svg" /> + 99999</p>
+<img width="300" src="http://hits.dwyl.io/fromif/Krypto-trading-bot.svg" /> + 99999</p>
